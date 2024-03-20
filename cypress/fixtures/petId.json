@@ -1,0 +1,5 @@
+{
+  "createPetId": 123,
+  "getPetId": 345,
+  "deletePetId":123
+}
